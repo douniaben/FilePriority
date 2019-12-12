@@ -1,0 +1,6 @@
+F:\DELL\Documents\Visual Studio\FilePriority\bin\Debug\FilePriority.exe.config
+F:\DELL\Documents\Visual Studio\FilePriority\bin\Debug\FilePriority.exe
+F:\DELL\Documents\Visual Studio\FilePriority\bin\Debug\FilePriority.pdb
+F:\DELL\Documents\Visual Studio\FilePriority\obj\Debug\FilePriority.csprojAssemblyReference.cache
+F:\DELL\Documents\Visual Studio\FilePriority\obj\Debug\FilePriority.exe
+F:\DELL\Documents\Visual Studio\FilePriority\obj\Debug\FilePriority.pdb
